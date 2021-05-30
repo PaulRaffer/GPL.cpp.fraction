@@ -1,4 +1,4 @@
-[submodule "raffer/operators"]
-	path = raffer/operators
-	url = https://github.com/PaulRaffer/raffer_cpplib-operators
+[submodule "gpl/operators"]
+	path = gpl/operators
+	url = https://github.com/PaulRaffer/GPL.cpp.operators
 	branch = cpp14
